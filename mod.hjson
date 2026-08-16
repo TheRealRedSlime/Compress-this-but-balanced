@@ -23,6 +23,6 @@
         '''
 
     subtitle: "[#633da1[]]Wanna compress stuff?!"
-    minGameVersion : 140.0
+    minGameVersion : 154
     hidden : false
 }
