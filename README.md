@@ -10,12 +10,12 @@ hope you like it, if you have any ideas, join the discord (https://discord.gg/Rf
 - Nerf Thick crusher & melter (+ energy ?)
 - Compress factor to 3:1
 - God damnit, nerf this F*ing Obsidian drill...
-- Remove this crap of infected liquids
+✅ Remove this crap of infected liquids
 - Compressed walls & conveyors : x3 resistant
 - Add hardened glass (needs heat source ?)
 - Conveyors & bridges : Only 2x or 1.5x faster than vanilla
-- Get rid of cap modifier
-- Get rid of the pew pew
-- Get rid of the mono maker
+✅ Get rid of cap modifier
+✅ Get rid of the pew pew
+✅ Get rid of the mono maker
 - Upgraded cryo mixer : Use compressed titanium & more energy 
 - For pity build the tech tree........
