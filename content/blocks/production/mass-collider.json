@@ -19,8 +19,8 @@
         "liquids": {
             "liquids": [
               {
-                "liquid": "infected-cryofluid",
-                "amount": 0.5
+                "liquid": "cryofluid",
+                "amount": 2
               }
             ]
           }
