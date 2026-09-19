@@ -9,8 +9,8 @@ hope you like it, if you have any ideas, join the discord (https://discord.gg/Rf
 - Affinities (Sand & blacksand) for coal drills + increase build cost
 - Nerf Thick crusher & melter (+ energy ?)
 - Compress factor to 3:1
-- God damnit, nerf this F*ing Obsidian drill...
-- ✅ Remove this crap of infected liquids
+- Nerf the Obsidian drill...
+- ✅ Remove infected liquids
 - Compressed walls & conveyors : x3 resistant
 - Add hardened glass (needs heat source ?)
 - Conveyors & bridges : Only 2x or 1.5x faster than vanilla
